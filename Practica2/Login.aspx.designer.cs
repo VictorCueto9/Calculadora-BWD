@@ -15,13 +15,31 @@ namespace Practica2
     {
 
         /// <summary>
-        /// Control usuario.
+        /// Control lbnamev.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox usuario;
+        protected global::System.Web.UI.WebControls.Label lbnamev;
+
+        /// <summary>
+        /// Control lbnamej.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbnamej;
+
+        /// <summary>
+        /// Control tbusuario.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tbusuario;
 
         /// <summary>
         /// Control lbusuario.
@@ -33,13 +51,13 @@ namespace Practica2
         protected global::System.Web.UI.WebControls.Label lbusuario;
 
         /// <summary>
-        /// Control contra.
+        /// Control tbcontra.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox contra;
+        protected global::System.Web.UI.WebControls.TextBox tbcontra;
 
         /// <summary>
         /// Control lbcontra.
@@ -49,6 +67,15 @@ namespace Practica2
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lbcontra;
+
+        /// <summary>
+        /// Control lbnota.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbnota;
 
         /// <summary>
         /// Control btnIngresa.
